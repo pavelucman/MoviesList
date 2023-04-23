@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoviesList</string>
+    <string name="unknown_error_occurred">Unknown error occurred!!</string>
+    <string name="retry">retry</string>
+    <string name="no_results_found">No results found</string>
+    <string name="could_not_load_search_results">Could not read search results</string>
+    <string name="original_language">Original language: </string>
+</resources>
